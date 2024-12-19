@@ -1,5 +1,5 @@
 import { SubsetService } from "./services/subset.service";
-import { isValidInput } from "./tests/validations";
+import { isValidInput } from "./utils/validations";
 
 const M: number[] = [2,5,8,14,0];
 const N: number = 10;
