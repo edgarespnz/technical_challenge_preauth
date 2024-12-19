@@ -58,4 +58,4 @@ N: Represents the sum of numbers we want to get
 
 -Since i created a test folder i had to slightly change Mocharc spec route.
 
--I didn't delete any unused dependency 
+-For the second challenge some dependencies are not up to date, i didn't considered deleting or updating them.
